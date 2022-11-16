@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagocncosta&color=red" alt="Profile Views" /> </p>
 
-- 🔥 Web Developer focused on learning every day and helping people
-- 🔭 I’m currently search for a new challenge <a href="https://www.linkedin.com/in/tiago-costa-0a466018b/" target="_blank">
+- 🔥 Web Developer focused on improving everyday
+- 🔭 I’m currently searching for a new challenge in backend <a href="https://www.linkedin.com/in/tiago-costa-0a466018b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
 - 💬 Ask me about **Java, JavaScript, React, HTML, CSS**
 <br><br>
