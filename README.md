@@ -1,3 +1,5 @@
+<h1>Hi there !</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiagocncosta&color=red" alt="Profile Views" /> </p>
 
 - 🔥 Web Developer focused on improving everyday
