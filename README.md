@@ -5,7 +5,7 @@
 - 🔥 Web Developer focused on improving everyday
 - 🔭 I’m currently searching for a new challenge in backend <a href="https://www.linkedin.com/in/tiago-costa-0a466018b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
-- 💬 Ask me about **Java, JavaScript, React, HTML, CSS**
+- 💬 Ask me about **Java, JavaScript, Spring, Quarkus, React, HTML, CSS**
 <br><br>
 ## 🛠 &nbsp;Tech Stack
 
